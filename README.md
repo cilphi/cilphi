@@ -17,10 +17,10 @@ Creo un puente entre diseño y código:
 
 ## :bamboo: Stack
 
-Diseño:    Figma · Illustrator · Photoshop
-Frontend:  HTML5 · CSS3/Sass · JavaScript · React · Bootstrap
-Backend:   Node.js (en curso) · SQLite
-Otros:     Git · n8n · WordPress
+- Diseño:    Figma · Illustrator · Photoshop
+- Frontend:  HTML5 · CSS3/Sass · JavaScript · React · Bootstrap
+- Backend:   Node.js (en curso) · SQLite
+- Otros:     Git · n8n · WordPress
 
 ## :open_file_folder: Proyectos destacados
 
